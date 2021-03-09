@@ -1,0 +1,22 @@
+.ui.fitted.borderless.menu.one {
+  background-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+.ui.fitted.borderless.menu.two {
+  box-shadow: none;
+  border: none;
+}
+.ui.fluid.image.one {
+  margin-top: 20px;
+}
+footer {
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+.fullWidth {
+  background: url("http://courses.ics.hawaii.edu/ics314s21/morea/ui-frameworks/experience-islandsnow-video-snapshot.png");
+}
+body {
+  font-weight: bold;
+}
