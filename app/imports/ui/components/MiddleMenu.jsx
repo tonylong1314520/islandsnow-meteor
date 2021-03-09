@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Dropdown, Grid } from 'semantic-ui-react';
+import { Dropdown, Grid } from 'semantic-ui-react';
 
 export default class MiddleMenu extends React.Component {
   render() {

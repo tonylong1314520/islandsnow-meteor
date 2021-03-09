@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Menu, Icon, Dropdown } from 'semantic-ui-react';
+import { Container, Menu, Icon, Dropdown, Item } from 'semantic-ui-react';
 
 export default class TopMenu extends React.Component {
   render() {

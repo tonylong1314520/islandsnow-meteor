@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Dropdown, Grid } from 'semantic-ui-react';
+import { Image } from 'semantic-ui-react';
 
 export default class FullWidthImage extends React.Component {
   render() {
